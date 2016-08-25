@@ -6,7 +6,6 @@ function Logger:new (o, source_config)
   setmetatable(o, self)
   self.__index = self
   self.source = source_config or {}
-  self.source.chip_id = node.chipid()
   return o
 end
 

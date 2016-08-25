@@ -1,7 +1,7 @@
 package = "nodemcu-logging"
 version = "0.0.1-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***",
+   url = "git://github.com/leprechaun/nodemcu-logging",
    tag = "v0.0.1"
 }
 description = {

@@ -1,8 +1,8 @@
 package = "nodemcu-logging"
-version = "0.0.1-3"
+version = "0.0.1-4"
 source = {
   url = "git://github.com/leprechaun/nodemcu-logging",
-  tag = "v0.0.1-3"
+  tag = "v0.0.1-4"
 }
 description = {
    summary = "NodeMCU module for logging",

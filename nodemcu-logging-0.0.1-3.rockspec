@@ -1,8 +1,8 @@
 package = "nodemcu-logging"
-version = "0.0.1-2"
+version = "0.0.1-3"
 source = {
   url = "git://github.com/leprechaun/nodemcu-logging",
-  tag = "v0.0.1-2"
+  tag = "v0.0.1-3"
 }
 description = {
    summary = "NodeMCU module for logging",
@@ -11,7 +11,7 @@ description = {
    license = "LGPL"
 }
 dependencies = {
-   "lua ~> 5.1"
+   "lua ~> 5.2"
 }
 build = {
    type = "builtin",

@@ -47,5 +47,6 @@ end
 -- l = Logger:new(nil, { process = "test-module" } )
 -- l:debug("a string")
 -- l:debug({"key":"value"})
+--
 
 return Logger
